@@ -1,0 +1,15 @@
+{
+  "name": "test-evm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jafri",
+  "license": "ISC",
+  "dependencies": {
+    "@jafri/eosjs2": "^21.0.0-rc.16",
+    "eos-evm-js": "^0.2.342"
+  }
+}
